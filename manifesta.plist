@@ -13,7 +13,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/zhouyang0211/fox_app1/blob/master/Glue512.png</string>
+                    <string>https://raw.githubusercontent.com/zhouyang0211/fox_app1/master/Glue512.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/zhouyang0211/fox_app1/blob/master/Glue57.png</string>
+                    <string>https://raw.githubusercontent.com/zhouyang0211/fox_app1/master/Glue57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
